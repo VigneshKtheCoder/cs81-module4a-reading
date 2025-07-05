@@ -1,0 +1,3 @@
+1. Most helpful aspect of this code's structure was the use of the functions with clear responsibilities and the names of the functions made it easy to understand what the function is doing. Even a new coder can understand this. It was also easy to test each part independently with the functions
+
+2. The part that was the most confusing or took longer to understand was understanding how the mostReadBook function track book counts and compares them to other books through the loop. 
