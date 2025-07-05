@@ -92,3 +92,8 @@ Suggested Improvement:
 I suggest changing the readingLog variable from a global one to an argument passed into functions since this would make the funtions more reusable. 
 - This is a good suggestion because it structures the code better and is reusable. 
 */
+
+
+//TEST CASE ONLY!!!
+addReadBook("Friday", "Harry Potter", 75);
+console.log("Updated total minutes:", totalReadingMinutes(readingLog));
